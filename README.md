@@ -13,8 +13,8 @@ Simple python script to convert text or any audio file to text using Google Spee
     - pip install pyaudio.
     
 ## Beware 
-  - dont name your file as speechRecognition as it may import your python script instead of the package.
-  - upgrade pip before installing dependencies stated above
+  - Dont name your file as speechRecognition as it may import your python script instead of the package.
+  - Upgrade pip before installing dependencies stated above
     - For Windows 
       - pip install pip --upgrade
     - For Mac
