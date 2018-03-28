@@ -1,4 +1,4 @@
-'# Text_To_Specch
+# Text_To_Specch
 Simple python script to convert text or any audio file to text using Google Speech Rexognition API♥
 
 ## Import Audio 
@@ -13,6 +13,7 @@ Simple python script to convert text or any audio file to text using Google Spee
     - pip install pyaudio.
     
 ## Beware 
+  - Keep audio file in the same directory in which your python script is saved.
   - Dont name your file as speechRecognition as it may import your python script instead of the package.
   - Upgrade pip before installing dependencies stated above
     - For Windows 
