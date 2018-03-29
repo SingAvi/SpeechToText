@@ -8,7 +8,7 @@ Simple python script to convert text or any audio file to text using Google Spee
   - Speech Recognition 
       - pip install SpeechRecognition
       - pip install 'speech recognition.whl file'  
-          -https://pypi.python.org/packages/26/e1/7f5678cd94ec1234269d23756dbdaa4c8cfaed973412f88ae8adf7893a50/SpeechRecognition-               3.8.1-py2.py3-none-any.whl
+         https://pypi.python.org/packages/26/e1/7f5678cd94ec1234269d23756dbdaa4c8cfaed973412f88ae8adf7893a50/SpeechRecognition-3.8.1-py2.py3-none-any.whl
 
   - Pyaudio
       - pip install pyaudio.
