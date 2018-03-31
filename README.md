@@ -1,5 +1,5 @@
 # Speech_To_Text
-Simple python script to convert text or any audio file to text using Google Speech Rexognition API♥
+Simple python script to convert live speech or any audio file to text using Google Speech Rexognition API♥
 
 ## Import Audio 
   - Try importing audio files with .wav extension as pyaudio detects few specified extensions
