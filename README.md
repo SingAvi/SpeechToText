@@ -24,7 +24,6 @@ Simple python script to convert text or any audio file to text using Google Spee
     - For Linux
       - pip install -U pip
       
-[Demo](https://user-images.githubusercontent.com/23066967/38156508-0665c852-349c-11e8-845a-3bb1197040c6.gif)
-
+<a href="https://imgflip.com/gif/27h7lz"><img src="https://i.imgflip.com/27h7lz.gif" title="made at imgflip.com"/></a>
       
       
