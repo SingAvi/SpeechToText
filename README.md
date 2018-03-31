@@ -1,4 +1,4 @@
-# Text_To_Specch
+# Speech_To_Text
 Simple python script to convert text or any audio file to text using Google Speech Rexognition API♥
 
 ## Import Audio 
